@@ -43,6 +43,7 @@
 
 ### Решение 1
 
+![1-1](https://github.com/blackgult/zabbix-hw2/blob/main/1-1.PNG)
 
  ---
 
