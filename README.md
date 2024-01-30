@@ -85,6 +85,10 @@
 ![3-1](https://github.com/blackgult/zabbix-hw2/blob/main/3-1.PNG)
 ![3-2](https://github.com/blackgult/zabbix-hw2/blob/main/3-2.PNG)
 ![3-3](https://github.com/blackgult/zabbix-hw2/blob/main/3-3.PNG)
+![3-4](https://github.com/blackgult/zabbix-hw2/blob/main/3-4.PNG)
+![3-5](https://github.com/blackgult/zabbix-hw2/blob/main/3-5.PNG)
+![3-6](https://github.com/blackgult/zabbix-hw2/blob/main/3-6.PNG)
+![3-7](https://github.com/blackgult/zabbix-hw2/blob/main/3-7.PNG)
 
  ---
 
@@ -101,7 +105,7 @@
 
 
 ### Решение 4
-
+![4-1](https://github.com/blackgult/zabbix-hw2/blob/main/4-1.PNG)
 
  ---
 
